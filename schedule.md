@@ -38,7 +38,7 @@
 
 ## Lecture/Exercise #3
 
-14:55 - 15:25 Lecture #3 -- 30 Minutes `@TBA`
+14:55 - 15:25 Lecture #3 -- 30 Minutes `@JE`
 
 15:25 - 15:55 Exercise #3 -- 30 Minutes
 
@@ -54,7 +54,7 @@
 
 ## Lecture/Exercise #5
 
-17:05 - 17:15 Lecture #5 -- 10 Minutes `@TBA`
+17:05 - 17:15 Lecture #5 -- 10 Minutes `@JE`
 
 17:15 - 17:40 Exercises #5a + 5b -- 25 Minutes
 
